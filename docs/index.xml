@@ -5,42 +5,15 @@
     <link>/</link>
     <description>Recent content on PSY490 Fall2023</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Week 1: Introduction / Orientation</title>
-      <link>/2023/09/07/week-1-introduction-/-orientation/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/2023/09/07/week-1-introduction-/-orientation/</guid>
-      <description>Welcome to PSY 490: Advanced current topics in neuroscience </description>
-    </item>
-    
-    <item>
-      <title>Week 2: Behaviour</title>
-      <link>/2023/09/07/week-2-behaviour/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/2023/09/07/week-2-behaviour/</guid>
-      <description>The ongoing development of behavioural analysis in neuroscience has been prompted and supported by the rapidly developing technology sector. Pipelines to analyze behaviour are becoming more efficient and informative.</description>
-    </item>
-    
-    <item>
-      <title>Week 3: Pharmacology</title>
-      <link>/2023/09/07/week-3-pharmacology/</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/2023/09/07/week-3-pharmacology/</guid>
-      <description>Pharmacological (aka drug-based) approaches have been used to investigate alterations in animal behaviour since the advent of the study of neuroscience.</description>
-    </item>
-    
+    <language>en-US</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <pubDate>Tue, 05 Sep 2023 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>This is a website intended to simplify navigating content related to PSY 490. R codes used to generate this website are freely available on Github.
+Original content prepared by Jennet Baumbach.</description>
     </item>
     
   </channel>
