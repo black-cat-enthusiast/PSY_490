@@ -8,14 +8,21 @@
     <language>en-US</language>
     <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Week 1: Introductions</title>
-      <link>/2023/09/07/week-1-introductions/</link>
+      <title>Week 1: Introduction / Orientation</title>
+      <link>/2023/09/07/week-1-introduction-/-orientation/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>/2023/09/07/week-1-introductions/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min.</description>
+      <guid>/2023/09/07/week-1-introduction-/-orientation/</guid>
+      <description>Welcome to PSY 490: Advanced current topics in neuroscience </description>
+    </item>
+    
+    <item>
+      <title>Week 2: Behaviour</title>
+      <link>/2023/09/07/week-2-behaviour/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/09/07/week-2-behaviour/</guid>
+      <description>The ongoing development of behavioural analysis in neuroscience has been prompted and supported by the rapidly developing technology sector. Pipelines to analyze behaviour are becoming more efficient and informative.</description>
     </item>
     
     <item>
