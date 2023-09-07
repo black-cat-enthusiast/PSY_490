@@ -2,7 +2,7 @@ baseurl: "/https://black-cat-enthusiast.github.io/page/"
 relativeURLs: true
 publishDir: "docs"
 languageCode: en-US
-title: A Hugo website
+title: PSY490 Fall2023
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -23,7 +23,7 @@ menu:
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
+  description: A website to synthesize lectures, notes and readings for PSY490.
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
