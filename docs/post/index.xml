@@ -6,14 +6,24 @@
     <description>Recent content in Posts on PSY490 Fall2023</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Presentation Articles</title>
-      <link>/2023/09/07/presentation-articles/</link>
+      <title>Week 1: Introduction / Orientation</title>
+      <link>/2023/09/08/week-1-introduction-/-orientation/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/09/08/week-1-introduction-/-orientation/</guid>
+      <description>Welcome to PSY 490: Advanced current topics in neuroscience </description>
+    </item>
+    
+    <item>
+      <title>Seminar Presentation Articles</title>
+      <link>/2023/09/07/seminar-presentation-articles/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>/2023/09/07/presentation-articles/</guid>
-      <description>Please find a list of weekly seminar presentation articles below: Week 2 (September 15th): Quantification of Behaviour Article Link: Automated behavioural analysis reveals the basic behavioural repertoire of the urochordate Ciona intestinalis pdf Download Week 3 (September 22nd): Pharmacology Article Link: Activation of the dorsal, but not the ventral, hippocampus relieves neuropathic pain in rodents pdf Download Week 4 (September 29th): Molecular Endpoints Article Link: pdf download Week 5 (October 6th): SEQ Article Link: Neuronal activity-related transcription is blunted in immature compared to mature dentate granule cells pdf download Week 6 (October 20th): Electrophysiology Article Link: Group II metabotropic glutamate receptor expressing neurons in anterior cingulate cortex become sensitized after inflammatory and neuropathic pain pdf download Week 7 (October 27th): in-class test - no reading Week 8 (November 3rd): Alterations in gene expression Article Link: pdf download Week 9 (November 10th): DREADDs Article Link: pdf download Week 10 (November 17th): Optogenetics Article Link: pdf download Week 11 (November 24th): in-vivo calcium imaging Article Link: pdf download Week 12 (December 1st): TRAP Article Link: pdf download </description>
+      <guid>/2023/09/07/seminar-presentation-articles/</guid>
+      <description>Pairs of students will lead a summary a summary / seminar-style discussion about the assigned weekly article.
+Week 2 (September 15th): Quantification of Behaviour Article Link: Automated behavioural analysis reveals the basic behavioural repertoire of the urochordate Ciona intestinalis pdf Download Week 3 (September 22nd): Pharmacology Article Link: Activation of the dorsal, but not the ventral, hippocampus relieves neuropathic pain in rodents pdf Download Week 4 (September 29th): Molecular Endpoints Article Link: pdf download Week 5 (October 6th): SEQ Article Link: Neuronal activity-related transcription is blunted in immature compared to mature dentate granule cells pdf download Week 6 (October 20th): Electrophysiology Article Link: Group II metabotropic glutamate receptor expressing neurons in anterior cingulate cortex become sensitized after inflammatory and neuropathic pain pdf download Week 7 (October 27th): in-class test - no reading Week 8 (November 3rd): Alterations in gene expression Article Link: pdf download Week 9 (November 10th): DREADDs Article Link: pdf download Week 10 (November 17th): Optogenetics Article Link: pdf download Week 11 (November 24th): in-vivo calcium imaging Article Link: pdf download Week 12 (December 1st): TRAP Article Link: pdf download </description>
     </item>
     
   </channel>
