@@ -27,8 +27,8 @@ Pairs of students will lead a summary a summary / seminar-style discussion about
 
 
 - #### Week 5 (October 6th): SEQ
-    + Article Link:  [*Neuronal activity-related transcription is blunted in immature compared to mature dentate granule cells*](https://www.biorxiv.org/content/10.1101/2022.09.26.508896v1.full)
-    + [pdf download](/files/Week_5_Paralyk2022)
+    + Article Link:  [*Young CSF restores oligodendrogenesis and memory in aged mice via Fgf17*](https://www.nature.com/articles/s41586-022-04722-0)
+    + [pdf download](/files/Week_5_Iram2022)
 
 
 - #### Week 6 (October 20th): Electrophysiology
@@ -40,8 +40,8 @@ Pairs of students will lead a summary a summary / seminar-style discussion about
 
 
 - #### Week 8 (November 3rd): Alterations in gene expression
-    + Article Link: [*Young CSF restores oligodendrogenesis and memory in aged mice via Fgf17*](https://www.nature.com/articles/s41586-022-04722-0)
-    + [pdf download](/files/Week_8_Iram2022)
+    + Article Link: [*Altered inhibitory function in hippocampal CA2 contributes in social memory deficits in Alzheimer’smouse model*](https://www.cell.com/iscience/pdf/S2589-0042(22)00165-1.pdf)
+    + [pdf download](/files/Week_8_Rey2022)
 
 
 - #### Week 9 (November 10th): DREADDs
