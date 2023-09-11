@@ -7,6 +7,7 @@ output: html_document
 
 
 
-# Welcome to PSY 490: Advanced current topics in neuroscience
+# Welcome to PSY 490: Advanced current topics in neuroscience seminar.
 
+<iframe src="https://black-cat-enthusiast.github.io/PSY490_Lecture_Slides" width="672" height="400px" data-external="1"></iframe>
 
