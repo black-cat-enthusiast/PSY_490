@@ -16,27 +16,28 @@ Pairs of students will lead a summary a summary / seminar-style discussion about
 ```{r}
 library(tidyverse)
 library(kableExtra)
+options(kableExtra.html.bsTable = TRUE)
 a <- read_csv("PSY_490_Presenetation_Weeks.csv")
 knitr::kable(a) %>%
   kable_styling(latex_options = "striped")
 ```
 
 
-- #### Week 2 (September 15th): Quantification of Behaviour
+- #### Week 2 (September 15th): Weekly topic - Quantification of Behaviour in laboratory settings
     + Article Link: [*Automated behavioural analysis reveals the basic behavioural repertoire of the urochordate Ciona intestinalis*](https://www.nature.com/articles/s41598-019-38791-5)
 
 
-- #### Week 3 (September 22nd): Pharmacology
+- #### Week 3 (September 22nd): Weekly topic - Pharmacology
     + Article Link: [*Activation of the dorsal, but not the ventral, hippocampus relieves neuropathic pain in rodents*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8464622/)
 
 
 
-- #### Week 4 (September 29th): Molecular Endpoints
+- #### Week 4 (September 29th): Weekly topic - Molecular Endpoints in neuroscience
     + Article Link: [*Novel benzodiazepine remimazolam tosylate delays neurodegeneration of aged mice via decreasing tau phosphorylation*](https://www.sciencedirect.com/science/article/pii/S0161813X22001267?via%3Dihub)
 
 
 
-- #### Week 5 (October 6th): SEQ
+- #### Week 5 (October 6th): Weekly topic - "SEQ"-style approaches in neuroscience
     + Article Link:  [*Young CSF restores oligodendrogenesis and memory in aged mice via Fgf17*](https://www.nature.com/articles/s41586-022-04722-0)
 
 
