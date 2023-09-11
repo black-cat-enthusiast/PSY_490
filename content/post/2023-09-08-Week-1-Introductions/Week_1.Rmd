@@ -9,6 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Welcome to PSY 490: Advanced current topics in neuroscience
+# Welcome to PSY 490: Advanced current topics in neuroscience seminar.
 
+```{r}
+library(tidyverse)
+knitr::include_url("https://github.com/black-cat-enthusiast/PSY_490/blob/main/Lectures/Week_1_Slideshow.html")
+```
 

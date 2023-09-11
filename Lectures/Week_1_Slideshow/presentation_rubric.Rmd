@@ -1,0 +1,62 @@
+---
+title: "PSY490 Seminar Presentation Rubric"
+author: 
+date: 
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Presenters: ___________________________________________________
+
+Topic: ______________________________________________________
+
+# Article summary (12 marks)
+
+Describes rationale for the current experiments. ___ /2
+
+State and justify the researchers hypotheses / predictions. __ /2
+
+Provide clear descriptions of researchers' methods. __ /2
+
+Define axes on graphs. __ /2
+
+Clearly state the experimental findings. __ /2
+
+State and comment on the authors' conclusions. __ /2
+
+# Discussion facilitation (12 marks)
+
+Contextualize the findings within their literature. __ /2
+
+Confidently answers questions about the content of the assigned article. __ /2
+
+Critically evaluates the author's conclusions / interpretations of their data. __ /2 
+
+Highlights strengths and weaknesses of the methodological approach. __ /2
+
+Discuss the potential future implications of the findings of the paper. __ /2
+
+Evidence of reading / knowledge beyond the assigned paper. __ /2
+
+# Presentation style (6 marks)
+
+Appropriate use of visuals. __ /2
+
+Appropriate delivery (tone of voice, eye contact, etc) __ /2
+
+Enthusiasm __ /2
+
+# Comments
+
+-
+-
+-
+-
+
+## Total mark ____ / 30
