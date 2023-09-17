@@ -1,0 +1,16 @@
+---
+title: "Week 2: Behaviour in Neuroscience"
+author: "JLB"
+date: "2023-09-15"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,warning = FALSE, message = FALSE)
+```
+
+
+```{r}
+library(tidyverse)
+knitr::include_url("https://black-cat-enthusiast.github.io/Prez_Week_2/")
+```
