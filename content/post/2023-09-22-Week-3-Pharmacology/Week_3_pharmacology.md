@@ -9,10 +9,6 @@ output: html_document
 
 
 
-```r
-library(tidyverse)
-```
-
 ```
 ## ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
 ## ✔ dplyr     1.1.2     ✔ readr     2.1.4
@@ -24,10 +20,6 @@ library(tidyverse)
 ## ✖ dplyr::filter() masks stats::filter()
 ## ✖ dplyr::lag()    masks stats::lag()
 ## ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
-```
-
-```r
-knitr::include_url("https://black-cat-enthusiast.github.io/psy490_pres_week_3/")
 ```
 
 <iframe src="https://black-cat-enthusiast.github.io/psy490_pres_week_3/" width="672" height="400px" data-external="1"></iframe>
