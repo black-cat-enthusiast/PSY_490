@@ -1,5 +1,5 @@
 ---
-title: "Week_3_Pharmacology"
+title: "Week 3: Pharmacology"
 author: "JLB"
 date: "2023-09-28"
 output: html_document
