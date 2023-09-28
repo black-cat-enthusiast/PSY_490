@@ -1,0 +1,16 @@
+---
+title: "Week_3_Pharmacology"
+author: "JLB"
+date: "2023-09-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(tidyverse)
+knitr::include_url("https://black-cat-enthusiast.github.io/psy490_pres_week_3/")
+```
