@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-```{r}
+```{r,echo=FALSE}
 library(tidyverse)
 knitr::include_url("https://black-cat-enthusiast.github.io/psy490_pres_week_3/")
 ```
